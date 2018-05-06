@@ -33,6 +33,7 @@ Paginate = 3
 	fronttitle = "Hi, I’m Editorial<br />by HTML5 UP"
 	frontsubline = "A free and fully responsive site template"
 	frontintro = "Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam."
+    heroimage = "/images/pic01.jpg"
 	learnmore = "Learn More"
 	learnmorelink = "/"
 
